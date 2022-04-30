@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: burlywood;
+}
+a{
+    text-decoration: none;
+}
+h1:hover{
+    background-color: greenyellow;
+    box-shadow: 6px 5px 5px 1px gray;
+    border-radius: 5px;
+    transition: 5s linear;
+    
+}
