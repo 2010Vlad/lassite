@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: wheat;
+}
+a{
+    text-decoration: none;
+    background-color: springgreen;
+    border-radius: 5px;
+    box-shadow: 3px 5px 4px 2px white;
+   margin:10px;
+}
+p{
+    background-color: turquoise;
+    border-radius: 5px;
+    box-shadow: 4px 3px 4px 1px gray;
+}
+p:hover{
+    background-color: chartreuse;
+   transition:2s background-color linear ;
+}
+.link-header:hover{
+    margin-left: 390px;
+    transition:6s linear;
+}
